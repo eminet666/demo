@@ -1,10 +1,10 @@
 ## Étienne MINET
 Auj : 16 septembre 2026
 
-### aframe
+### 1_aframe
 [demo aframe](./test.html)
 
-### python
+### 2_python
 
 
-### teachable machine
+### 3_teachable machine
